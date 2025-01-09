@@ -1,2 +1,2 @@
-# lotgd-goblin-chest
+# Goblin chest
 A wooden chest is at your feet. What will you do?
